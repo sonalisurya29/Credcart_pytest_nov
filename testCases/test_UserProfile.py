@@ -2,6 +2,7 @@ import random
 import string
 import time
 
+import pytest
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from pageObjects.UserProfilePage import UserProfile_Class
@@ -15,6 +16,7 @@ class Test_User_Profile:
     Password = Readconfig.getPassword()
     log = Logging_Class.log_genarator()
 
+    @pytest.mark.sanity
     def test_UserRegistration_001(self, setup):
         self.log.info("test_UserRegistration_001 is started")
         # self.log.debug("this is debug log")
@@ -82,10 +84,7 @@ class Test_User_Profile:
             assert False
         self.log.info("test_UserRegistration_001 is completed")
 
-
-
-
-
+    @pytest.mark.sanity
     def test_UserLogin_002(self, setup):
         self.log.info("test_UserLogin_002 is started")
         self.driver = setup
