@@ -1,0 +1,7 @@
+[32mINFO    [0m Test_User_Profile:test_UserProfile.py:90 test_UserLogin_002 is started
+[32mINFO    [0m Test_User_Profile:test_UserProfile.py:92  Opening Browser
+[32mINFO    [0m Test_User_Profile:test_UserProfile.py:98  Going to login Url-->https://automation.credence.in/login
+[32mINFO    [0m Test_User_Profile:test_UserProfile.py:102  Entering emailRohits01@credence.in
+[32mINFO    [0m Test_User_Profile:test_UserProfile.py:106  Entering passwordRohit123
+[32mINFO    [0m Test_User_Profile:test_UserProfile.py:112  logging Success
+[32mINFO    [0m Test_User_Profile:test_UserProfile.py:125 test_UserLogin_002 is completed

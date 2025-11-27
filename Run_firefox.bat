@@ -1,0 +1,1 @@
+pytest -v -s"F:\Sonali\python revision nov\Pytest_credframework" --html=HtmlReports/firefoxreport.html --browser firefox

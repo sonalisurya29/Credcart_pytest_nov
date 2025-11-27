@@ -1,0 +1,7 @@
+INFO     Test_User_Profile:test_UserProfile.py:90 test_UserLogin_002 is started
+INFO     Test_User_Profile:test_UserProfile.py:92  Opening Browser
+INFO     Test_User_Profile:test_UserProfile.py:98  Going to login Url-->https://automation.credence.in/login
+INFO     Test_User_Profile:test_UserProfile.py:102  Entering emailRohits01@credence.in
+INFO     Test_User_Profile:test_UserProfile.py:106  Entering passwordRohit123
+INFO     Test_User_Profile:test_UserProfile.py:112  logging Success
+INFO     Test_User_Profile:test_UserProfile.py:125 test_UserLogin_002 is completed
