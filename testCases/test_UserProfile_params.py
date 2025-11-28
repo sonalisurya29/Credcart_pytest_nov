@@ -4,7 +4,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from pageObjects.UserProfilePage import UserProfile_Class
 from Utilities.readproperties import Readconfig
-from testCases.conftest import getDataForRegisteration
+# from testCases.conftest import getDataForRegisteration
 
 
 class Test_User_Profile_Params:

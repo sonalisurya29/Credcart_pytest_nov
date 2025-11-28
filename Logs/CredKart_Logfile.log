@@ -324,3 +324,20 @@
 2025-11-26 19:17:13,854 - INFO - Test_User_Profile - test_UserLogin_002 -  Entering passwordRohit123
 2025-11-26 19:17:15,805 - INFO - Test_User_Profile - test_UserLogin_002 -  logging Success
 2025-11-26 19:17:16,069 - INFO - Test_User_Profile - test_UserLogin_002 - test_UserLogin_002 is completed
+2025-11-28 12:34:29,513 - INFO - Test_User_Profile - test_UserRegistration_001 - test_UserRegistration_001 is started
+2025-11-28 12:34:29,513 - INFO - Test_User_Profile - test_UserRegistration_001 -  Opening Browser
+2025-11-28 12:34:31,471 - INFO - Test_User_Profile - test_UserRegistration_001 - Going to Url-->https://automation.credence.in/register
+2025-11-28 12:34:31,527 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the name
+2025-11-28 12:34:31,621 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the Email-->qjak@gmail.com
+2025-11-28 12:34:31,710 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the password
+2025-11-28 12:34:31,781 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the confirm password
+2025-11-28 12:34:34,611 - INFO - Test_User_Profile - test_UserRegistration_001 - Clicking on Register Button
+2025-11-28 12:34:34,627 - INFO - Test_User_Profile - test_UserRegistration_001 - test_UserRegistration_001 is pass
+2025-11-28 12:34:34,837 - INFO - Test_User_Profile - test_UserRegistration_001 - test_UserRegistration_001 is completed
+2025-11-28 12:34:38,651 - INFO - Test_User_Profile - test_UserLogin_002 - test_UserLogin_002 is started
+2025-11-28 12:34:38,651 - INFO - Test_User_Profile - test_UserLogin_002 -  Opening Browser
+2025-11-28 12:34:40,828 - INFO - Test_User_Profile - test_UserLogin_002 -  Going to login Url-->https://automation.credence.in/login
+2025-11-28 12:34:40,930 - INFO - Test_User_Profile - test_UserLogin_002 -  Entering emailRohits01@credence.in
+2025-11-28 12:34:41,018 - INFO - Test_User_Profile - test_UserLogin_002 -  Entering passwordRohit123
+2025-11-28 12:34:44,034 - INFO - Test_User_Profile - test_UserLogin_002 -  logging Success
+2025-11-28 12:34:44,234 - INFO - Test_User_Profile - test_UserLogin_002 - test_UserLogin_002 is completed
